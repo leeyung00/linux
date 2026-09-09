@@ -3,6 +3,7 @@
 ## 1. Linux Foundation Certified System Administrator (LFCS)
 
 ## 2. 리눅스 부팅 순서
+> 학습 순서
 ![부팅사진](linux_booting/linux_boot_chain_overview.png)
 
 ## 3. 3-tier 자동화 스크립트
