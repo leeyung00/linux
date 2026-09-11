@@ -1,12 +1,12 @@
 # 리눅스에 대한 전반적인 학습 내용 정리
 
-## 1. Linux Foundation Certified System Administrator (LFCS)
+## 1. [Linux Foundation Certified System Administrator (LFCS)](https://github.com/leeyung00/linux/tree/main/LFCS)
 
 ## 2. [리눅스 부팅 순서](https://github.com/leeyung00/linux/tree/main/linux_booting)
 > 학습 순서
 ![부팅사진](linux_booting/linux_boot_chain_overview.png)
 
-## 3. 3-tier 자동화 스크립트
+## 3. [3-tier 자동화 스크립트]()
 > 우분투 서버 환경에서 직접 web(nignx) / was(tomcat) / db(mysql)을 설치하고 이 과정을 셸 스크립트로 자동화하였다.   
 > 각 버전별로 고도화가 진행되었으며 이 과정을 통해 기존 20분 정도의 소요 시간을 2분 이내로 단축 할 수 있었다.   
 > 추가로 오타로 인한 오류 발생 가능성을 제거 하였으며 누가 실행하더라고 같은 결과를 내는 멱등성 역시 확보하였다.
